@@ -1,0 +1,1338 @@
+[
+  {
+    "name": "Afghanistan",
+    "name_fa": "افغانستان",
+    "nationality": "Afghan",
+    "nationality_fa": "افغان",
+    "capital": "Kabul",
+    "capital_fa": "کابل"
+  },
+  {
+    "name": "Albania",
+    "name_fa": "آلبانی",
+    "nationality": "Albanian",
+    "nationality_fa": "آلبانیایی",
+    "capital": "Tirana",
+    "capital_fa": "تیرانا"
+  },
+  {
+    "name": "Algeria",
+    "name_fa": "الجزایر",
+    "nationality": "Algerian",
+    "nationality_fa": "الجزایری",
+    "capital": "Algiers",
+    "capital_fa": "الجزیره"
+  },
+  {
+    "name": "Andorra",
+    "name_fa": "آندورا",
+    "nationality": "Andorran",
+    "nationality_fa": "اهل آندورا",
+    "capital": "Andorra la Vella",
+    "capital_fa": "آندروا لاولا"
+  },
+  {
+    "name": "Angola",
+    "name_fa": "آنگولا",
+    "nationality": "Angolan",
+    "nationality_fa": "اهل آنگولا",
+    "capital": "Luanda",
+    "capital_fa": "لواندا"
+  },
+  {
+    "name": "Argentina",
+    "name_fa": "آرزانتین",
+    "nationality": "Argentinian",
+    "nationality_fa": "آرژانتینی",
+    "capital": "Buenos Aires",
+    "capital_fa": "بوئنس آیرس"
+  },
+  {
+    "name": "Armenia",
+    "name_fa": "ارمنستان",
+    "nationality": "Armenian",
+    "nationality_fa": "ارمنی",
+    "capital": "Yerevan",
+    "capital_fa": "ایروان"
+  },
+  {
+    "name": "Australia",
+    "name_fa": "استرالیا",
+    "nationality": "Australian",
+    "nationality_fa": "استرالیایی",
+    "capital": "Canberra",
+    "capital_fa": "کانبرا"
+  },
+  {
+    "name": "Austria",
+    "name_fa": "اتریش",
+    "nationality": "Austrian",
+    "nationality_fa": "اتریشی",
+    "capital": "Vienna",
+    "capital_fa": "وین"
+  },
+  {
+    "name": "Azerbaijan",
+    "name_fa": "آذربایجان",
+    "nationality": "Azerbaijani",
+    "nationality_fa": "آذربایجانی",
+    "capital": "Baku",
+    "capital_fa": "باکو"
+  },
+  {
+    "name": "The Bahamas",
+    "name_fa": "باهاما",
+    "nationality": "Bahamian",
+    "nationality_fa": "اهل باهاما",
+    "capital": "Nassau",
+    "capital_fa": "ناسائو"
+  },
+  {
+    "name": "Bahrain",
+    "name_fa": "بحرین",
+    "nationality": "Bahraini",
+    "nationality_fa": "بحرینی",
+    "capital": "Manama",
+    "capital_fa": "منامه"
+  },
+  {
+    "name": "Bangladesh",
+    "name_fa": "بنگلادش",
+    "nationality": "Bangladeshi",
+    "nationality_fa": "بنگلادشی",
+    "capital": "Dhaka",
+    "capital_fa": "داکا"
+  },
+  {
+    "name": "Barbados",
+    "name_fa": "باربادوس",
+    "nationality": "Barbadian",
+    "nationality_fa": "اهل باربادوس",
+    "capital": "Bridgetown",
+    "capital_fa": "بریج تون"
+  },
+  {
+    "name": "Belarus",
+    "name_fa": "بلاروس",
+    "nationality": "Belarusian",
+    "nationality_fa": "بلاروسی",
+    "capital": "Minsk",
+    "capital_fa": "مینسک"
+  },
+  {
+    "name": "Belgium",
+    "name_fa": "بلژیک",
+    "nationality": "Belgian",
+    "nationality_fa": "بلژیکی",
+    "capital": "Brussels",
+    "capital_fa": "بروکسل"
+  },
+  {
+    "name": "Belize",
+    "name_fa": "بلیز",
+    "nationality": "Belizean",
+    "nationality_fa": "اهل بلیز",
+    "capital": "Belmopan",
+    "capital_fa": "بلموپان"
+  },
+  {
+    "name": "Benin",
+    "name_fa": "بنین",
+    "nationality": "Beninese",
+    "nationality_fa": "اهل بنین",
+    "capital": "Porto-Novo",
+    "capital_fa": "پورتو نوو"
+  },
+  {
+    "name": "Bhutan",
+    "name_fa": "بوتان",
+    "nationality": "Bhutanese",
+    "nationality_fa": "بوتانی",
+    "capital": "Thimphu",
+    "capital_fa": "تیمفو"
+  },
+  {
+    "name": "Bolivia",
+    "name_fa": "بولیوی",
+    "nationality": "Bolivian",
+    "nationality_fa": "بولیویایی",
+    "capital": "La Paz",
+    "capital_fa": "لاپاز"
+  },
+  {
+    "name": "Bosnia-Herzegovina",
+    "name_fa": "بوسنی و هرزگوین",
+    "nationality": "Bosnian",
+    "nationality_fa": "بوسنیایی",
+    "capital": "Sarajevo",
+    "capital_fa": "سارایوو"
+  },
+  {
+    "name": "Botswana",
+    "name_fa": "بوتسوانا",
+    "nationality": "Botswanan",
+    "nationality_fa": "اهل بوتسوانا",
+    "capital": "Gaborone",
+    "capital_fa": "گابورون"
+  },
+  {
+    "name": "Brazil",
+    "name_fa": "برزیل",
+    "nationality": "Brazilian",
+    "nationality_fa": "برزیلی",
+    "capital": "Brasilia",
+    "capital_fa": "برازیلیا"
+  },
+  {
+    "name": "Brunei",
+    "name_fa": "بونئی",
+    "nationality": "Bruneian",
+    "nationality_fa": "اهل بونئی",
+    "capital": "Bandar Seri Begawan",
+    "capital_fa": "بندر سری بگاون"
+  },
+  {
+    "name": "Bulgaria",
+    "name_fa": "بلغارستان",
+    "nationality": "Bulgarian",
+    "nationality_fa": "بلغاری",
+    "capital": "Sofia",
+    "capital_fa": "صوفیه"
+  },
+  {
+    "name": "Burkina Faso",
+    "name_fa": "بورکینیا فاسو",
+    "nationality": "Burkinese",
+    "nationality_fa": "اهل بورکینیا فاسو",
+    "capital": "Ouagadougou",
+    "capital_fa": "اوآگادوگو"
+  },
+  {
+    "name": "Burundi",
+    "name_fa": "بروندی",
+    "nationality": "Burundian",
+    "nationality_fa": "اهل بروندی",
+    "capital": "Bujumbura",
+    "capital_fa": "بوجومبورا"
+  },
+  {
+    "name": "Cambodia",
+    "name_fa": "کامبوج",
+    "nationality": "Cambodian",
+    "nationality_fa": "کامبوجی",
+    "capital": "Phnom Penh",
+    "capital_fa": "پنوم پن"
+  },
+  {
+    "name": "Cameroon",
+    "name_fa": "کامرون",
+    "nationality": "Cameroonian",
+    "nationality_fa": "کامرونی",
+    "capital": "Yaounde",
+    "capital_fa": "یائونده"
+  },
+  {
+    "name": "Canada",
+    "name_fa": "کانادا",
+    "nationality": "Canadian",
+    "nationality_fa": "کانادایی",
+    "capital": "Ottawa",
+    "capital_fa": "اتاوا"
+  },
+  {
+    "name": "Chad",
+    "name_fa": "چاد",
+    "nationality": "Chadian",
+    "nationality_fa": "اهل چاد",
+    "capital": "N’Djamena",
+    "capital_fa": "انجامنا"
+  },
+  {
+    "name": "Chile",
+    "name_fa": "شیلی",
+    "nationality": "Chilean",
+    "nationality_fa": "شیلیایی",
+    "capital": "Santiago",
+    "capital_fa": "سانتیاگو"
+  },
+  {
+    "name": "China",
+    "name_fa": "چین",
+    "nationality": "Chinese",
+    "nationality_fa": "چینی",
+    "capital": "Beijing",
+    "capital_fa": "پکن"
+  },
+  {
+    "name": "Colombia",
+    "name_fa": "کلمبیا",
+    "nationality": "Colombian",
+    "nationality_fa": "کلمبیایی",
+    "capital": "Bogotá",
+    "capital_fa": "بوگوتا"
+  },
+  {
+    "name": "Congo",
+    "name_fa": "کنگو",
+    "nationality": "Congolese",
+    "nationality_fa": "کنگویی",
+    "capital": "Kinshasa",
+    "capital_fa": "کینشاسا"
+  },
+  {
+    "name": "Costa Rica",
+    "name_fa": "کاستاریکا",
+    "nationality": "Costa Rican",
+    "nationality_fa": "کاستاریکایی",
+    "capital": "San Jose",
+    "capital_fa": "سن خوزه"
+  },
+  {
+    "name": "Croatia",
+    "name_fa": "کرواسی",
+    "nationality": "Croat or Croatian",
+    "nationality_fa": "کروات",
+    "capital": "Zagreb",
+    "capital_fa": "زاگرب"
+  },
+  {
+    "name": "Cuba",
+    "name_fa": "کوبا",
+    "nationality": "Cuban",
+    "nationality_fa": "کوبایی",
+    "capital": "Havana",
+    "capital_fa": "هاوانا"
+  },
+  {
+    "name": "Cyprus",
+    "name_fa": "قبرس",
+    "nationality": "Cypriot",
+    "nationality_fa": "قبرسی",
+    "capital": "Nicosia",
+    "capital_fa": "نیکوزیا"
+  },
+  {
+    "name": "The Czech Republic",
+    "name_fa": "جمهوری چک",
+    "nationality": "Czech",
+    "nationality_fa": "اهل جمهوری چک",
+    "capital": "Prague",
+    "capital_fa": "پراگ"
+  },
+  {
+    "name": "Denmark",
+    "name_fa": "دانمارک",
+    "nationality": "Danish",
+    "nationality_fa": "دانمارکی",
+    "capital": "Copenhagen",
+    "capital_fa": "کپنهاگن"
+  },
+  {
+    "name": "Djibouti",
+    "name_fa": "جیبوتی",
+    "nationality": "Djiboutian",
+    "nationality_fa": "اهل جیبوتی",
+    "capital": "Djibouti",
+    "capital_fa": "جیبوتی"
+  },
+  {
+    "name": "Dominica",
+    "name_fa": "دومینیکا",
+    "nationality": "Dominican",
+    "nationality_fa": "اهل دومینیکا",
+    "capital": "Roseau",
+    "capital_fa": "روسو"
+  },
+  {
+    "name": "Dominican Republic",
+    "name_fa": "جمهوری دومنیکن",
+    "nationality": "Dominican",
+    "nationality_fa": "اهل جمهوری دومنیکن",
+    "capital": "Santo Domingo",
+    "capital_fa": "سانتو دومینگو"
+  },
+  {
+    "name": "Ecuador",
+    "name_fa": "اکوادور",
+    "nationality": "Ecuadorean",
+    "nationality_fa": "اهل اکوادور",
+    "capital": "Quito",
+    "capital_fa": "کویتو"
+  },
+  {
+    "name": "Egypt",
+    "name_fa": "مصر",
+    "nationality": "Egyptian",
+    "nationality_fa": "مصری",
+    "capital": "Cairo",
+    "capital_fa": "قاهره"
+  },
+  {
+    "name": "El Salvador",
+    "name_fa": "السالوادور",
+    "nationality": "Salvadorean",
+    "nationality_fa": "اهل السالوادور",
+    "capital": "San Salvador",
+    "capital_fa": "سن سالوادر"
+  },
+  {
+    "name": "England",
+    "name_fa": "انگلیسی",
+    "nationality": "English",
+    "nationality_fa": "انگلیسی",
+    "capital": "London",
+    "capital_fa": "لندن"
+  },
+  {
+    "name": "Eritrea",
+    "name_fa": "ایتره",
+    "nationality": "Eritrean",
+    "nationality_fa": "ایتره ای",
+    "capital": "Asmara",
+    "capital_fa": "اسمرا"
+  },
+  {
+    "name": "Estonia",
+    "name_fa": "استونی",
+    "nationality": "Estonian",
+    "nationality_fa": "استونیایی",
+    "capital": "Tallinn",
+    "capital_fa": "تالین"
+  },
+  {
+    "name": "Ethiopia",
+    "name_fa": "اتیوپی",
+    "nationality": "Ethiopian",
+    "nationality_fa": "اتیوپیایی",
+    "capital": "Addis Ababa",
+    "capital_fa": "آدیس آبابا"
+  },
+  {
+    "name": "Fiji",
+    "name_fa": "فیجی",
+    "nationality": "Fijian",
+    "nationality_fa": "اهل فیجی",
+    "capital": "Suva",
+    "capital_fa": "سووا"
+  },
+  {
+    "name": "Finland",
+    "name_fa": "فنلاند",
+    "nationality": "Finnish",
+    "nationality_fa": "فنلاندی",
+    "capital": "Helsinki",
+    "capital_fa": "هسلینکی"
+  },
+  {
+    "name": "France",
+    "name_fa": "فرانسه",
+    "nationality": "French",
+    "nationality_fa": "فرانسوی",
+    "capital": "Paris",
+    "capital_fa": "فرانسوی"
+  },
+  {
+    "name": "Gabon",
+    "name_fa": "گابن",
+    "nationality": "Gabonese",
+    "nationality_fa": "گابنی",
+    "capital": "Libreville",
+    "capital_fa": "لیبرویل"
+  },
+  {
+    "name": "Gambia, the",
+    "name_fa": "گامبیا",
+    "nationality": "Gambian",
+    "nationality_fa": "گامبیایی",
+    "capital": "Banjul",
+    "capital_fa": "بانجول"
+  },
+  {
+    "name": "Georgia",
+    "name_fa": "گرجستان",
+    "nationality": "Georgian",
+    "nationality_fa": "گرجی",
+    "capital": "Tbilisi",
+    "capital_fa": "تفلیس"
+  },
+  {
+    "name": "Germany",
+    "name_fa": "آلمان",
+    "nationality": "German",
+    "nationality_fa": "آلمانی",
+    "capital": "Berlin",
+    "capital_fa": "برلین"
+  },
+  {
+    "name": "Ghana",
+    "name_fa": "غنا",
+    "nationality": "Ghanaian",
+    "nationality_fa": "غنایی",
+    "capital": "Accra",
+    "capital_fa": "آکرا"
+  },
+  {
+    "name": "Greece",
+    "name_fa": "یونان",
+    "nationality": "Greek",
+    "nationality_fa": "یونانی",
+    "capital": "Athens",
+    "capital_fa": "آتن"
+  },
+  {
+    "name": "Grenada",
+    "name_fa": "گرانادا",
+    "nationality": "Grenadian",
+    "nationality_fa": "اهل گرانادا",
+    "capital": "Saint George’s",
+    "capital_fa": "سنت جورجز"
+  },
+  {
+    "name": "Guatemala",
+    "name_fa": "گواتمالا",
+    "nationality": "Guatemalan",
+    "nationality_fa": "گواتمالایی",
+    "capital": "Guatemala City",
+    "capital_fa": "گواتمالاسیتی"
+  },
+  {
+    "name": "Guinea",
+    "name_fa": "گینه",
+    "nationality": "Guinean",
+    "nationality_fa": "اهل گینه",
+    "capital": "Conakry",
+    "capital_fa": "کوناکری"
+  },
+  {
+    "name": "Guyana",
+    "name_fa": "گویان",
+    "nationality": "Guyanese",
+    "nationality_fa": "اهل گویان",
+    "capital": "Georgetown",
+    "capital_fa": "جورج تون"
+  },
+  {
+    "name": "Haiti",
+    "name_fa": "هایتی",
+    "nationality": "Haitian",
+    "nationality_fa": "اهل هایتی",
+    "capital": "Port-au-Prince",
+    "capital_fa": "پور تو پرینس"
+  },
+  {
+    "name": "Honduras",
+    "name_fa": "هندوراس",
+    "nationality": "Honduran",
+    "nationality_fa": "هندوراسی",
+    "capital": "Tegucigalpa",
+    "capital_fa": "تگوسیگالپا"
+  },
+  {
+    "name": "Hungary",
+    "name_fa": "مجارستان",
+    "nationality": "Hungarian",
+    "nationality_fa": "مجاری",
+    "capital": "Budapest",
+    "capital_fa": "بوداپست"
+  },
+  {
+    "name": "Iceland",
+    "name_fa": "ایسلند",
+    "nationality": "Icelandic",
+    "nationality_fa": "ایسلندی",
+    "capital": "Reykjavik",
+    "capital_fa": "ریکیاویک"
+  },
+  {
+    "name": "India",
+    "name_fa": "هند",
+    "nationality": "Indian",
+    "nationality_fa": "هندی",
+    "capital": "New Delhi",
+    "capital_fa": "دهلی نو"
+  },
+  {
+    "name": "Indonesia",
+    "name_fa": "اندونزی",
+    "nationality": "Indonesian",
+    "nationality_fa": "اندونزیایی",
+    "capital": "Jakarta",
+    "capital_fa": "جاکارتا"
+  },
+  {
+    "name": "Iran",
+    "name_fa": "ایران",
+    "nationality": "Iranian",
+    "nationality_fa": "ایرانی",
+    "capital": "Tehran",
+    "capital_fa": "تهران"
+  },
+  {
+    "name": "Iraq",
+    "name_fa": "عراق",
+    "nationality": "Iraqi",
+    "nationality_fa": "عراقی",
+    "capital": "Baghdad",
+    "capital_fa": "بغداد"
+  },
+  {
+    "name": "Ireland, Republic of",
+    "name_fa": "جمهوری ایرلند",
+    "nationality": "Irish",
+    "nationality_fa": "ایرلندی",
+    "capital": "Dublin",
+    "capital_fa": "دوبلین"
+  },
+  {
+    "name": "Italy",
+    "name_fa": "ایتالیا",
+    "nationality": "Italian",
+    "nationality_fa": "ایتالیایی",
+    "capital": "Rome",
+    "capital_fa": "رم"
+  },
+  {
+    "name": "Jamaica",
+    "name_fa": "جامائیکا",
+    "nationality": "Jamaican",
+    "nationality_fa": "جامائیکایی",
+    "capital": "Kingston",
+    "capital_fa": "کینگستون"
+  },
+  {
+    "name": "Japan",
+    "name_fa": "ژاپن",
+    "nationality": "Japanese",
+    "nationality_fa": "ژاپنی",
+    "capital": "Tokyo",
+    "capital_fa": "توکیو"
+  },
+  {
+    "name": "Jordan",
+    "name_fa": "اردن",
+    "nationality": "Jordanian",
+    "nationality_fa": "اردنی",
+    "capital": "Amman",
+    "capital_fa": "امان"
+  },
+  {
+    "name": "Kazakhstan",
+    "name_fa": "قزاقستان",
+    "nationality": "Kazakh",
+    "nationality_fa": "قزاق",
+    "capital": "Astana",
+    "capital_fa": "آستانا"
+  },
+  {
+    "name": "Kenya",
+    "name_fa": "کنیا",
+    "nationality": "Kenyan",
+    "nationality_fa": "کنیایی",
+    "capital": "Nairobi",
+    "capital_fa": "نایروبی"
+  },
+  {
+    "name": "Kuwait",
+    "name_fa": "کویت",
+    "nationality": "Kuwaiti",
+    "nationality_fa": "کویتی",
+    "capital": "Kuwait",
+    "capital_fa": "کویت"
+  },
+  {
+    "name": "Laos",
+    "name_fa": "لائوس",
+    "nationality": "Laotian",
+    "nationality_fa": "لائوسی",
+    "capital": "Vientiane",
+    "capital_fa": "وین‌تیان"
+  },
+  {
+    "name": "Latvia",
+    "name_fa": "لیتوانی",
+    "nationality": "Latvian",
+    "nationality_fa": "لیتوانیایی",
+    "capital": "Riga",
+    "capital_fa": "ریگا"
+  },
+  {
+    "name": "Lebanon",
+    "name_fa": "لبنان",
+    "nationality": "Lebanese",
+    "nationality_fa": "لبنانی",
+    "capital": "Beirut",
+    "capital_fa": "بیروت"
+  },
+  {
+    "name": "Liberia",
+    "name_fa": "لیبریا",
+    "nationality": "Liberian",
+    "nationality_fa": "لیبریایی",
+    "capital": "Monrovia",
+    "capital_fa": "مونروویا"
+  },
+  {
+    "name": "Libya",
+    "name_fa": "لیبی",
+    "nationality": "Libyan",
+    "nationality_fa": "لیبیایی",
+    "capital": "Tripoli",
+    "capital_fa": "طرابلس"
+  },
+  {
+    "name": "Lithuania",
+    "name_fa": "لیتوانی",
+    "nationality": "Lithuanian",
+    "nationality_fa": "لیتوانیایی",
+    "capital": "Vilnius",
+    "capital_fa": "ویلنیوس"
+  },
+  {
+    "name": "Macedonia",
+    "name_fa": "مقدونیه",
+    "nationality": "Macedonian",
+    "nationality_fa": "مقدونیه ای",
+    "capital": "Skopje",
+    "capital_fa": "اسکوییه"
+  },
+  {
+    "name": "Madagascar",
+    "name_fa": "ماداگاسکار",
+    "nationality": "Malagasy or Madagascan",
+    "nationality_fa": "اهل ماداگاسکار",
+    "capital": "Antananarivo",
+    "capital_fa": "آنتاناناریوو"
+  },
+  {
+    "name": "Malawi",
+    "name_fa": "مالاوی",
+    "nationality": "Malawian",
+    "nationality_fa": "اهل مالاوی",
+    "capital": "Lilongwe",
+    "capital_fa": "لیلونگوه"
+  },
+  {
+    "name": "Malaysia",
+    "name_fa": "مالزی",
+    "nationality": "Malaysian",
+    "nationality_fa": "مالزیایی",
+    "capital": "Kuala Lumpur",
+    "capital_fa": "کوالا لامپور"
+  },
+  {
+    "name": "Maldives",
+    "name_fa": "مالدیو",
+    "nationality": "Maldivian",
+    "nationality_fa": "مالدیوی",
+    "capital": "Male",
+    "capital_fa": "ماله"
+  },
+  {
+    "name": "Mali",
+    "name_fa": "مالی",
+    "nationality": "Malian",
+    "nationality_fa": "اهل مالی",
+    "capital": "Bamako",
+    "capital_fa": "باماکو"
+  },
+  {
+    "name": "Malta",
+    "name_fa": "مالت",
+    "nationality": "Maltese",
+    "nationality_fa": "اهل مالت",
+    "capital": "Valletta",
+    "capital_fa": "والتا"
+  },
+  {
+    "name": "Mauritania",
+    "name_fa": "موریتانی",
+    "nationality": "Mauritanian",
+    "nationality_fa": "موریتانیایی",
+    "capital": "Nouakchott",
+    "capital_fa": "نواکشوت"
+  },
+  {
+    "name": "Mauritius",
+    "name_fa": "موریس",
+    "nationality": "Mauritian",
+    "nationality_fa": "اهل موریس",
+    "capital": "Port Louis",
+    "capital_fa": "پورت لوئیس"
+  },
+  {
+    "name": "Mexico",
+    "name_fa": "مکزیک",
+    "nationality": "Mexican",
+    "nationality_fa": "مکزیکی",
+    "capital": "Mexico City",
+    "capital_fa": "مکزیکو سیتی"
+  },
+  {
+    "name": "Monaco",
+    "name_fa": "موناکو",
+    "nationality": "Monégasque or Monacan",
+    "nationality_fa": "اهل موناکو",
+    "capital": "Monaco",
+    "capital_fa": "موناکو"
+  },
+  {
+    "name": "Mongolia",
+    "name_fa": "مغولستان",
+    "nationality": "Mongolian",
+    "nationality_fa": "مغول",
+    "capital": "Ulaanbaatar",
+    "capital_fa": "اولان‌باتور"
+  },
+  {
+    "name": "Montenegro",
+    "name_fa": "مونته نگرو",
+    "nationality": "Montenegrin",
+    "nationality_fa": "مونتنگرویی",
+    "capital": "Podgorica",
+    "capital_fa": "پودگوریسا"
+  },
+  {
+    "name": "Morocco",
+    "name_fa": "مراکش",
+    "nationality": "Moroccan",
+    "nationality_fa": "مراکشی",
+    "capital": "Rabat",
+    "capital_fa": "رباط"
+  },
+  {
+    "name": "Mozambique",
+    "name_fa": "موزامبیک",
+    "nationality": "Mozambican",
+    "nationality_fa": "موزامبیکی",
+    "capital": "Maputo",
+    "capital_fa": "ماپوتو"
+  },
+  {
+    "name": "Myanmar = Burma",
+    "name_fa": "میانمار (نام دیگر این کشور برمه است)",
+    "nationality": "Burmese",
+    "nationality_fa": "برمه ای",
+    "capital": "Naypyidaw",
+    "capital_fa": "نایپیداو"
+  },
+  {
+    "name": "Namibia",
+    "name_fa": "نامیبیا",
+    "nationality": "Namibian",
+    "nationality_fa": "نامیبیایی",
+    "capital": "Windhoek",
+    "capital_fa": "ویندهوک"
+  },
+  {
+    "name": "Nepal",
+    "name_fa": "نپال",
+    "nationality": "Nepalese",
+    "nationality_fa": "نپالی",
+    "capital": "Kathmandu",
+    "capital_fa": "کاتماندو"
+  },
+  {
+    "name": "Netherlands, the = Holland",
+    "name_fa": "هلند",
+    "nationality": "Dutch",
+    "nationality_fa": "هلندی",
+    "capital": "Amsterdam",
+    "capital_fa": "آمستردام"
+  },
+  {
+    "name": "New Zealand",
+    "name_fa": "نیوزیلند",
+    "nationality": "New Zealand",
+    "nationality_fa": "نیوزلندی",
+    "capital": "Wellington",
+    "capital_fa": "ولینگتون"
+  },
+  {
+    "name": "Nicaragua",
+    "name_fa": "نیکاراگوئه",
+    "nationality": "Nicaraguan",
+    "nationality_fa": "نیکاراگوئه ای",
+    "capital": "Managua",
+    "capital_fa": "ماناگوآ"
+  },
+  {
+    "name": "Niger",
+    "name_fa": "نیجر",
+    "nationality": "Nigerien",
+    "nationality_fa": "اهل نیجر",
+    "capital": "Niamey",
+    "capital_fa": "نیامی"
+  },
+  {
+    "name": "Nigeria",
+    "name_fa": "نیجریه",
+    "nationality": "Nigerian",
+    "nationality_fa": "نیجریه ای",
+    "capital": "Abuja",
+    "capital_fa": "آبوجا"
+  },
+  {
+    "name": "North Korea",
+    "name_fa": "کره شمالی",
+    "nationality": "North Korean",
+    "nationality_fa": "کره ای",
+    "capital": "Pyongyang",
+    "capital_fa": "پیونگ یانگ"
+  },
+  {
+    "name": "Norway",
+    "name_fa": "نروژ",
+    "nationality": "Norwegian",
+    "nationality_fa": "نروژی",
+    "capital": "Oslo",
+    "capital_fa": "اسلو"
+  },
+  {
+    "name": "Oman",
+    "name_fa": "عمان",
+    "nationality": "Omani",
+    "nationality_fa": "عمانی",
+    "capital": "Muscat",
+    "capital_fa": "مسقط"
+  },
+  {
+    "name": "Pakistan",
+    "name_fa": "پاکستان",
+    "nationality": "Pakistani",
+    "nationality_fa": "پاکستانی",
+    "capital": "Islamabad",
+    "capital_fa": "اسلام آباد"
+  },
+  {
+    "name": "Palestine",
+    "name_fa": "فلستین",
+    "nationality": "Palestinian",
+    "nationality_fa": "فلستینی",
+    "capital": "Ramallah",
+    "capital_fa": "رام الله"
+  },
+  {
+    "name": "Panama",
+    "name_fa": "پاناما",
+    "nationality": "Panamanian",
+    "nationality_fa": "پانامایی",
+    "capital": "Panama City",
+    "capital_fa": "شهر پاناما"
+  },
+  {
+    "name": "Papua New Guinea",
+    "name_fa": "گینه نو",
+    "nationality": "Papua New Guinean or Guinean",
+    "nationality_fa": "اهل گینه نو",
+    "capital": "Port Moresby",
+    "capital_fa": "بندر مورسبی"
+  },
+  {
+    "name": "Paraguay",
+    "name_fa": "پاراگوئه",
+    "nationality": "Paraguayan",
+    "nationality_fa": "پاراگوئه ای",
+    "capital": "Asunción",
+    "capital_fa": "آسونسیون"
+  },
+  {
+    "name": "Peru",
+    "name_fa": "پرو",
+    "nationality": "Peruvian",
+    "nationality_fa": "پرویی",
+    "capital": "Lima",
+    "capital_fa": "لیما"
+  },
+  {
+    "name": "the Philippines",
+    "name_fa": "فیلیپین",
+    "nationality": "Philippine",
+    "nationality_fa": "فیلیپینی",
+    "capital": "Manila",
+    "capital_fa": "مانیل"
+  },
+  {
+    "name": "Poland",
+    "name_fa": "لهستان",
+    "nationality": "Polish",
+    "nationality_fa": "لهستانی",
+    "capital": "Warsaw",
+    "capital_fa": "ورشو"
+  },
+  {
+    "name": "Portugal",
+    "name_fa": "پرتغال",
+    "nationality": "Portuguese",
+    "nationality_fa": "پرتغالی",
+    "capital": "Lisbon",
+    "capital_fa": "لیسبون"
+  },
+  {
+    "name": "Qatar",
+    "name_fa": "قطر",
+    "nationality": "Qatari",
+    "nationality_fa": "قطری",
+    "capital": "Doha",
+    "capital_fa": "دوحه"
+  },
+  {
+    "name": "Romania",
+    "name_fa": "رومانی",
+    "nationality": "Romanian",
+    "nationality_fa": "رومانیایی",
+    "capital": "Bucharest",
+    "capital_fa": "بخارست"
+  },
+  {
+    "name": "Russia",
+    "name_fa": "روسیه",
+    "nationality": "Russian",
+    "nationality_fa": "روس",
+    "capital": "Moscow",
+    "capital_fa": "مسکو"
+  },
+  {
+    "name": "Rwanda",
+    "name_fa": "رواندا",
+    "nationality": "Rwandan",
+    "nationality_fa": "رواندایی",
+    "capital": "Kigali",
+    "capital_fa": "کیگالی"
+  },
+  {
+    "name": "Saudi Arabia",
+    "name_fa": "عربستان سعودی",
+    "nationality": "Saudi Arabian or Saudi",
+    "nationality_fa": "سعودی",
+    "capital": "Riyadh",
+    "capital_fa": "ریاضی"
+  },
+  {
+    "name": "Senegal",
+    "name_fa": "سنگال",
+    "nationality": "Senegalese",
+    "nationality_fa": "سنگالی",
+    "capital": "Dakar",
+    "capital_fa": "داکار"
+  },
+  {
+    "name": "Serbia",
+    "name_fa": "صربستان",
+    "nationality": "Serb or Serbian",
+    "nationality_fa": "صرب",
+    "capital": "Belgrade",
+    "capital_fa": "بلگراد"
+  },
+  {
+    "name": "Seychelles, the",
+    "name_fa": "سیشل",
+    "nationality": "Seychellois",
+    "nationality_fa": "اهل سیشل",
+    "capital": "Victoria",
+    "capital_fa": "ویکتوریا"
+  },
+  {
+    "name": "Sierra Leone",
+    "name_fa": "سیرالئون",
+    "nationality": "Sierra Leonian",
+    "nationality_fa": "اهل سیرالئون",
+    "capital": "Freetown",
+    "capital_fa": "فری‌تاون"
+  },
+  {
+    "name": "Singapore",
+    "name_fa": "سنگاپور",
+    "nationality": "Singaporean",
+    "nationality_fa": "سنگاپور",
+    "capital": "Singapore",
+    "capital_fa": "سنگاپور"
+  },
+  {
+    "name": "Slovakia",
+    "name_fa": "اسلواکی",
+    "nationality": "Slovak",
+    "nationality_fa": "اسلواک",
+    "capital": "Bratislava",
+    "capital_fa": "براتیسلاوا"
+  },
+  {
+    "name": "Slovenia",
+    "name_fa": "اسلوونی",
+    "nationality": "Slovene or Slovenian",
+    "nationality_fa": "اسلوونیایی",
+    "capital": "Ljubljana",
+    "capital_fa": "لیوبلیانا"
+  },
+  {
+    "name": "Somalia",
+    "name_fa": "سومالی",
+    "nationality": "Somali",
+    "nationality_fa": "سومالیایی",
+    "capital": "Mogadishu",
+    "capital_fa": "موگادیشو"
+  },
+  {
+    "name": "South Africa",
+    "name_fa": "آفریقای جنوبی",
+    "nationality": "South African",
+    "nationality_fa": "آفریقایی",
+    "capital": "",
+    "capital_fa": "پروتوریا، کیپ تون، بلوم فانتین"
+  },
+  {
+    "name": "South Korea",
+    "name_fa": "کره جنوبی",
+    "nationality": "South Korean",
+    "nationality_fa": "کره ای",
+    "capital": "Seoul",
+    "capital_fa": "سئول"
+  },
+  {
+    "name": "Spain",
+    "name_fa": "اسپانیا",
+    "nationality": "Spanish",
+    "nationality_fa": "اسپانیایی",
+    "capital": "Madrid",
+    "capital_fa": "مادرید"
+  },
+  {
+    "name": "Sri Lanka",
+    "name_fa": "سریلانکا",
+    "nationality": "Sri Lankan",
+    "nationality_fa": "سریلانکایی",
+    "capital": "Sri Jayawardenepura Kotte",
+    "capital_fa": "جایاواردنپورا کوته"
+  },
+  {
+    "name": "Sudan",
+    "name_fa": "سودان",
+    "nationality": "Sudanese",
+    "nationality_fa": "سودانی",
+    "capital": "Khartoum",
+    "capital_fa": "خارطوم"
+  },
+  {
+    "name": "Suriname",
+    "name_fa": "سورینام",
+    "nationality": "Surinamese",
+    "nationality_fa": "سرینامی",
+    "capital": "Paramaribo",
+    "capital_fa": "پاراماریبو"
+  },
+  {
+    "name": "Swaziland",
+    "name_fa": "سوازیلند",
+    "nationality": "Swazi",
+    "nationality_fa": "اهل سوازیلند",
+    "capital": "Mbabane",
+    "capital_fa": "مبابانه"
+  },
+  {
+    "name": "Sweden",
+    "name_fa": "سوئد",
+    "nationality": "Swedish",
+    "nationality_fa": "سوئدی",
+    "capital": "Stockholm",
+    "capital_fa": "استکهلم"
+  },
+  {
+    "name": "Switzerland",
+    "name_fa": "سوئیس",
+    "nationality": "Swiss",
+    "nationality_fa": "سوئیسی",
+    "capital": "Bern",
+    "capital_fa": "برن"
+  },
+  {
+    "name": "Syria",
+    "name_fa": "سوریه",
+    "nationality": "Syrian",
+    "nationality_fa": "سوری",
+    "capital": "Damascus",
+    "capital_fa": "دمشق"
+  },
+  {
+    "name": "Taiwan",
+    "name_fa": "تایوان",
+    "nationality": "Taiwanese",
+    "nationality_fa": "تایوانی",
+    "capital": "Taipei",
+    "capital_fa": "تایپه"
+  },
+  {
+    "name": "Tajikistan",
+    "name_fa": "تاجیکستان",
+    "nationality": "Tajik",
+    "nationality_fa": "تاجیک",
+    "capital": "Dushanbe",
+    "capital_fa": "دوشنبه"
+  },
+  {
+    "name": "Tanzania",
+    "name_fa": "تانزانیا",
+    "nationality": "Tanzanian",
+    "nationality_fa": "تانزانیایی",
+    "capital": "Dodoma",
+    "capital_fa": "دارالسلام"
+  },
+  {
+    "name": "Thailand",
+    "name_fa": "تایلند",
+    "nationality": "Thai",
+    "nationality_fa": "تایلندی",
+    "capital": "Bangkok",
+    "capital_fa": "بانکوک"
+  },
+  {
+    "name": "Togo",
+    "name_fa": "توگو",
+    "nationality": "Togolese",
+    "nationality_fa": "توگویی",
+    "capital": "Lomé",
+    "capital_fa": "لومه"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "name_fa": "ترینیداد و توباگو",
+    "nationality": "Trinidadian Tobagan Tobagonian",
+    "nationality_fa": "اهل ترینیداد و توباگو",
+    "capital": "Port of Spain",
+    "capital_fa": "بندر اسپانیا"
+  },
+  {
+    "name": "Tunisia",
+    "name_fa": "تونس",
+    "nationality": "Tunisian",
+    "nationality_fa": "تونسی",
+    "capital": "Tunis",
+    "capital_fa": "تونس"
+  },
+  {
+    "name": "Turkey",
+    "name_fa": "ترکیه",
+    "nationality": "Turkish",
+    "nationality_fa": "ترک",
+    "capital": "Ankara",
+    "capital_fa": "آنکارا"
+  },
+  {
+    "name": "Turkmenistan",
+    "name_fa": "ترکمنستان",
+    "nationality": "Turkmen or Turkoman",
+    "nationality_fa": "ترکمن",
+    "capital": "Ashgabat",
+    "capital_fa": "عشق آباد"
+  },
+  {
+    "name": "Tuvalu",
+    "name_fa": "توالو",
+    "nationality": "Tuvaluan",
+    "nationality_fa": "اهل توالو",
+    "capital": "Funafuti",
+    "capital_fa": "فونافوتی"
+  },
+  {
+    "name": "Uganda",
+    "name_fa": "اوگاندا",
+    "nationality": "Ugandan",
+    "nationality_fa": "اوگاندایی",
+    "capital": "Kampala",
+    "capital_fa": "کامپالا"
+  },
+  {
+    "name": "Ukraine",
+    "name_fa": "اکراین",
+    "nationality": "Ukrainian",
+    "nationality_fa": "اکراینی",
+    "capital": "Kyiv",
+    "capital_fa": "کیف"
+  },
+  {
+    "name": "United Arab Emirates (UAE)",
+    "name_fa": "امارات متحده عربی",
+    "nationality": "UAE or Emirates or Emirati",
+    "nationality_fa": "اماراتی",
+    "capital": "Abu Dhabi",
+    "capital_fa": "ابوظبی"
+  },
+  {
+    "name": "United States of America (USA)",
+    "name_fa": "ایالات متحده آمریکا",
+    "nationality": "US",
+    "nationality_fa": "آمریکایی",
+    "capital": "Washington, D.C.",
+    "capital_fa": "واشنگتن"
+  },
+  {
+    "name": "Uruguay",
+    "name_fa": "اروگوئه",
+    "nationality": "Uruguayan",
+    "nationality_fa": "اروگوئه ای",
+    "capital": "Washington, D.C.",
+    "capital_fa": "مونته ویدئو"
+  },
+  {
+    "name": "Uzbekistan",
+    "name_fa": "ازبکستان",
+    "nationality": "Uzbek",
+    "nationality_fa": "ازبک",
+    "capital": "Tashkent",
+    "capital_fa": "تاشکند"
+  },
+  {
+    "name": "Vanuatu",
+    "name_fa": "وانوواتو",
+    "nationality": "Vanuatuan",
+    "nationality_fa": "اهل وانوواتو",
+    "capital": "Port Vila",
+    "capital_fa": "پورت ویلا"
+  },
+  {
+    "name": "Vatican City",
+    "name_fa": "واتیکان",
+    "nationality": "–",
+    "nationality_fa": "",
+    "capital": "Vatican City",
+    "capital_fa": "شهر واتیکان"
+  },
+  {
+    "name": "Venezuela",
+    "name_fa": "ونزوئلا",
+    "nationality": "Venezuelan",
+    "nationality_fa": "ونزوئلایی",
+    "capital": "Caracas",
+    "capital_fa": "کاراکاس"
+  },
+  {
+    "name": "Vietnam",
+    "name_fa": "ویتنام",
+    "nationality": "Vietnamese",
+    "nationality_fa": "ویتنامی",
+    "capital": "Hanoi",
+    "capital_fa": "هانوی"
+  },
+  {
+    "name": "Yemen",
+    "name_fa": "یمن",
+    "nationality": "Yemeni",
+    "nationality_fa": "یمنی",
+    "capital": "Sana’a",
+    "capital_fa": "صنعا"
+  },
+  {
+    "name": "Zambia",
+    "name_fa": "زامبیا",
+    "nationality": "Zambian",
+    "nationality_fa": "زامبیایی",
+    "capital": "Lusaka",
+    "capital_fa": "لوساکا"
+  },
+  {
+    "name": "Zimbabwe",
+    "name_fa": "زیمباوه",
+    "nationality": "Zimbabwean",
+    "nationality_fa": "زیمباوه ای",
+    "capital": "Harare",
+    "capital_fa": "هراره"
+  }
+]
